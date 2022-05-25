@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VtVMv3SM5mcZA+zKLpSTQ7qArYWcg5ff/L6BKNQ9/7E=",
+  "Source": "ApiSQL_Azure",
+  "BasePath": "_content/ApiSQL_Azure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
